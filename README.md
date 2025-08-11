@@ -4,13 +4,13 @@ This repository documents **Task 5** of my cybersecurity internship at **Elevate
 
 ---
 
-## 🎯 Task Objective
+##  Task Objective
 
 To use Wireshark for capturing and analyzing live network packets, apply protocol filters, and understand the purpose and structure of the captured traffic in a controlled environment.
 
 ---
 
-## 🖥️ System Details
+##  System Details
 
 - **OS**: Kali Linux 2024.2  
 - **Tool**: Wireshark v4.x  
@@ -19,7 +19,7 @@ To use Wireshark for capturing and analyzing live network packets, apply protoco
 
 ---
 
-## 🛠️ Steps Performed
+## Steps Performed
 
 1. Launched Wireshark on Kali Linux with root privileges.  
 2. Selected the active network interface.  
@@ -31,7 +31,7 @@ To use Wireshark for capturing and analyzing live network packets, apply protoco
 
 ---
 
-## 📊 Protocols Identified
+## Protocols Identified
 
 | Protocol | Purpose | Example from Capture |
 |----------|---------|----------------------|
@@ -41,7 +41,7 @@ To use Wireshark for capturing and analyzing live network packets, apply protoco
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 Available in the `/screenshots` folder:
 - `01-capture-overview.png`
@@ -52,10 +52,9 @@ Available in the `/screenshots` folder:
 
 ---
 
-## 📂 Files Included
+## Files Included
 
-- `Task5_Report.pdf` — Final internship report  
-- `task5_capture.pcap` — Saved Wireshark capture file  
+- `Task5_Report.pdf` — Final internship report   
 - `/screenshots` — Visual documentation of protocol analysis  
 - `README.md` — This file
 
