@@ -24,9 +24,9 @@ To use Wireshark for capturing and analyzing live network packets, apply protoco
 1. Launched Wireshark on Kali Linux with root privileges.  
 2. Selected the active network interface.  
 3. Started packet capture.  
-4. Generated traffic by browsing a secure website (`openai.com`) and performing DNS lookups.  
+4. Generated traffic by browsing a secure website (`saiaditya.com`) and performing DNS lookups.  
 5. Applied protocol filters for HTTP, DNS, and TLS.  
-6. Stopped the capture and saved the `.pcap` file.  
+6. Stopped the capture.
 7. Documented findings in a structured report.
 
 ---
@@ -35,9 +35,9 @@ To use Wireshark for capturing and analyzing live network packets, apply protoco
 
 | Protocol | Purpose | Example from Capture |
 |----------|---------|----------------------|
-| **HTTP** | Transfers web page data between client and server. | GET request to openai.com |
-| **DNS**  | Resolves domain names to IP addresses. | Query for `openai.com` |
-| **TLS**  | Encrypts web traffic for confidentiality and integrity. | Encrypted HTTPS session to openai.com |
+| **HTTP** | Transfers web page data between client and server. | GET request to saiaditya.com |
+| **DNS**  | Resolves domain names to IP addresses. | Query for `saiaditya.com` |
+| **TLS**  | Encrypts web traffic for confidentiality and integrity. | Encrypted HTTPS session to saiaditya.com |
 
 ---
 
